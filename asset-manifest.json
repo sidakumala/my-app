@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sidakumala/my-app/static/css/main.073c9b0a.css",
+    "main.js": "/sidakumala/my-app/static/js/main.92af42e0.js",
+    "static/js/787.1315a2c5.chunk.js": "/sidakumala/my-app/static/js/787.1315a2c5.chunk.js",
+    "static/media/logo.svg": "/sidakumala/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sidakumala/my-app/index.html",
+    "main.073c9b0a.css.map": "/sidakumala/my-app/static/css/main.073c9b0a.css.map",
+    "main.92af42e0.js.map": "/sidakumala/my-app/static/js/main.92af42e0.js.map",
+    "787.1315a2c5.chunk.js.map": "/sidakumala/my-app/static/js/787.1315a2c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.92af42e0.js"
+  ]
+}
